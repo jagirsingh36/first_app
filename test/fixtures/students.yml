@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  studentname: MyString
+  rollno: 1
+  class: 1
+  marks: 1
+
+two:
+  studentname: MyString
+  rollno: 1
+  class: 1
+  marks: 1
